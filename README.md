@@ -7,6 +7,6 @@
   + Webpack
   + Jest for unit test
 - To use
-npm install (install)
-webpack (bundle)
-npm test(run unit test)
+  + npm install (to install)
+  + webpack (to bundle)
+  + npm test(to run unit test)
